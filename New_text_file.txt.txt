@@ -1,0 +1,11 @@
+**Objective**
+
+The objective of this E-commerce Management System is to help customers purchase products online easily and efficiently. It allows users to explore products, place orders, make payments, and manage their purchases.
+
+The system maintains information about customers, products, orders, and payments using a relational database. It uses primary keys, foreign keys, unique constraints, and other database constraints to maintain data accuracy and integrity.
+
+This project demonstrates real-world business operations by using SQL joins to retrieve meaningful information, such as customer order history, product sales, and payment details.
+
+The project also uses custom functions, triggers, and stored procedures to automate tasks and handle different business requirements.
+
+The main purpose of this project is to demonstrate important DBMS concepts, including constraints, relationships, joins, functions, triggers, and stored procedures, while developing a practical E-commerce Management System.
